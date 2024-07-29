@@ -1,0 +1,9 @@
+{
+	"name": "git-pile",
+
+	// Use 'dockerFile' if you need to create a Dockerfile.
+	"image": "mcr.microsoft.com/vscode/devcontainers/base:latest",
+
+	// Features to add to the dev container. More info: https://containers.dev/features.
+	"features": {}
+}
